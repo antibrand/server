@@ -41,6 +41,6 @@ Here is the GUI of server:
 ![0_1513173700919_01-dashboard.png](https://i.imgur.com/f8rBqSU.png) 
 
 ## How easy?
-- This is very easy to install & upgrade. Just download the latest version and click `Next, Next, Next...`
-- This is very easy to use. Most of the time it will work out-of-the-box without the need to touch any configuration files.
-- This is very easy to extend. You can add other services to your current stack by just extracting them to `Laragon's bin` folder.
+- This server is very easy to install & upgrade. Just download the latest version and click `Next, Next, Next...`
+- This server is very easy to use. Most of the time it will work out-of-the-box without the need to touch any configuration files.
+- This server is very easy to extend. You can add other services to your current stack by just extracting them to `Laragon's bin` folder.
