@@ -37,8 +37,6 @@ Enjoy!
 ## How fast?
 
 It starts instantly. You can set server autorun when Windows starts. When running, server uses just a little amount of your RAM.
-Here is the GUI of server:
-![0_1513173700919_01-dashboard.png](https://i.imgur.com/f8rBqSU.png) 
 
 ## How easy?
 - This server is very easy to install & upgrade. Just download the latest version and click `Next, Next, Next...`
